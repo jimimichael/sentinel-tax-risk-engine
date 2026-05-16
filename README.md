@@ -370,3 +370,11 @@ https://www.gov.uk/government/publications/hmrcs-approach-to-tackling-tax-fraud
 
 ## HMRC Single Departmental Plan 2022–2025
 https://www.gov.uk/government/publications/hmrc-single-departmental-plan/hmrc-single-departmental-plan-2022-to-2025
+
+---
+
+# Possible Enhancements
+
+1. Add time-series analysis for filing pattern changes
+2. Implement machine learning (Isolation Forest) for anomaly detection
+3. Automate weekly refresh with GitHub Actions
