@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sentinel – Synthetic Tax Risk & Compliance Profiling Engine
 
 ## Purpose
