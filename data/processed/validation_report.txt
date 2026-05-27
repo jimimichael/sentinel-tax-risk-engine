@@ -1,0 +1,10 @@
+Null check - missing values: 0
+Negative turnover check - 0 records (should be 0)
+VAT Calculation check - 0 mismatches (should be 0)
+Risk flag validity check - 0 invalid (should be 0)
+Over-reporting check - 0 records (should be 0)
+Late days reasonable - 0 records > 365 days
+Unique IDs - Pass
+valid_regions check - Pass
+financial_columns check - Pass
+Filing consistency score check - Pass
